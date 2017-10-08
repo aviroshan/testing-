@@ -1,0 +1,3 @@
+Camel casing and Pascal casing problems are there.
+Please refer to the below URL and make corrections and push.
+https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/general-naming-conventions
