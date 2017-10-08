@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace testing1
 {
+    // Class name should have a meaningful name. It can't be Class1 or Class2 etc.
+    
     class Class1
     {
         public string FileName { get; set; }
