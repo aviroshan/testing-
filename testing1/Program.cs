@@ -13,6 +13,10 @@ namespace testing1
         {
             DirectoryInfo dir = new DirectoryInfo(@"G:\test folder");
             int c1 = 0, c2 = 0, c3 = 0;
+            
+            // Check the naming conventions
+            // https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/general-naming-conventions
+            
             Class1 fm = new Class1();
             foreach (FileInfo flInfo in dir.GetFiles())
             {
